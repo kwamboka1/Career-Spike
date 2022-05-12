@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #header .logo img {
-  max-height: 100px;
+  max-height: 30px;
 }
 
 /*--------------------------------------------------------------
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #D3AA32; //CHECK LATER
+  background-color: #D3AA32;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
