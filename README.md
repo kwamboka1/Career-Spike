@@ -14,9 +14,9 @@ This is our portfolio project that concludes our foundations Year at ALX-Holbert
 ## The Team
 As a team we warm up to online experiences, freelancing with alot of passion in coding while keeping it fun!
 
-  Mildred Makori @kwamboka1
-  Nile Okomo @beingnile
-  Doreen Bett @doreenbett
+  * Mildred Makori @kwamboka1
+  * Nile Okomo @beingnile
+  * Doreen Bett @doreenbett
 
 ## Project Guide
 
