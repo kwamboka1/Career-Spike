@@ -40,6 +40,7 @@
   <!-- ======= Header ======= -->
 
   <header id="header" class="fixed-top ">
+    {% block header %}
     <div class="container d-flex align-items-center justify-content-between">
 
       <!--<h1 class="logo"><a href="index.html">Career Spike</a></h1>-->
@@ -62,8 +63,10 @@
       </nav> <!-- .navbar -->
 
     </div>
+    {% endblock %}
   </header><!-- End Header -->
 
+{% block main %}
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="fade-up" data-aos-delay="150">
@@ -78,7 +81,6 @@
   </section><!-- End Hero -->
 
   <main id="main">
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
@@ -398,8 +400,8 @@
 
       </div>
     </section><!-- End Contact Section -->
-
   </main><!-- End #main -->
+  {% endblock %}
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
