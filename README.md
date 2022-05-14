@@ -1,6 +1,6 @@
 # Career Spike
 
-![Career Spike Logo](https://github.com/kwamboka1/Career-Spike/blob/main/assets/img/spike-logo-mod.png)
+![Career Spike Logo](https://github.com/kwamboka1/Career-Spike/blob/main/website/static/assets/img/spike-logo-mod.png)
 
 ## The Project
 
