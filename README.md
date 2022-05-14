@@ -1,6 +1,6 @@
 # Career Spike
 
-![Career Spike Logo](assets/spike-logo.jpeg)
+![Career Spike Logo](https://github.com/kwamboka1/Career-Spike/blob/main/assets/img/spike-logo-mod.png)
 The Project
 Advanced technology is creating online opportunities for young
 people helping solve the unemployment crisis in developing 
