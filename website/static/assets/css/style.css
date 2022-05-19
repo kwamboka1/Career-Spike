@@ -1114,7 +1114,7 @@ section {
   transition: 0.3s;
 }
 
-/* Apply Page */
+/* Apply Page 
 
 .search-wrapper{
   margin-top: 100px;
@@ -1166,4 +1166,25 @@ section {
   font-weight: bold;
   outline: none;
   cursor: pointer;
+}
+/*Job_card
+.Job_card{
+  width: 1000px;
+  height: 0 auto;
+  background-color: lightgrey;
+}*/
+main{
+  width: 100%;
+  padding-right: 20%; 
+  padding-left: 20%;
+  padding-top: 10%;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  margin-top: 5%;
+}
+.col-6 col-md-4 img{
+  width: 50px;
+  height: 50px;
 }
