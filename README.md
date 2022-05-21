@@ -6,7 +6,7 @@
 
 Advanced technology is used in creating online opportunities for young people helping solve the unemployment crisis in developing 
 states. Majority of young people are willing and equipped with
-wit skills to work on online jobs but lack the experience required by every online employer. Career Spike is aimed to solving this problem by introducing an entry level job vacancy platform that gives everyone a chance to work on projects while advancing on their career skills.
+with skills to work on online jobs but lack the experience required by every online employer. Career Spike is aimed at solving this problem by introducing an entry level job vacancy platform that gives everyone a chance to work on projects while advancing on their career skills.
 
 ## The context
 
