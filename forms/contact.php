@@ -1,7 +1,7 @@
 <?php
 
   //our receiving email address
-  $receiving_email_address = 'contact@careerspike.com';
+  $receiving_email_address = 'makorimildred@gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
