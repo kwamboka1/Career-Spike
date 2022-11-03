@@ -2,7 +2,8 @@
 
 ![Career Spike Logo](https://github.com/kwamboka1/Career-Spike/blob/main/website/static/assets/img/spike-logo-mod.png)
 
-## The Project
+## The Project 
+[**View the deployed**](https://kwamboka1.github.io/Career-Spike/)
 
 Advanced technology is used in creating online opportunities for young people helping solve the unemployment crisis in developing 
 states. Majority of young people are willing and equipped with
